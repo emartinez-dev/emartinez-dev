@@ -1,5 +1,4 @@
-### Hello!👋 
-
+# Hello!👋 
 I am Enrique Martínez. I am a Business Management and Administration graduate, tech lover, and self-taught developer. 
 
 I have helped world-renowned brands and startups in competitive SEO sectors for three years as Digital Marketing Consultant. During that period, I fell in love with Python and discovered the power of data, so I decided to redirect my career path toward programming.
@@ -8,9 +7,17 @@ After two years of self-taught learning, I decided to jump into the ["pool"](htt
 
 🔭 Currently working on [my 42 cursus projects](https://github.com/emartinez-dev/42cursus)
 
-🌱  Computer science student @ **[42 Málaga](https://42malaga.com/)** since September 2022.
+🌱 Computer science student @ **[42 Málaga](https://42malaga.com/)** since September 2022.
 
-👨‍💻  I am interested in  `Python`,  `Data Mining`,  `Machine Learning` and  `Peer Learning`!
+👨‍💻 I am interested in  `Python`,  `Data Mining`,  `Machine Learning` and  `Peer Learning`!
+
+🥷 I am also  ~~an amateur musician~~ a professional [noise maker](https://soundcloud.com/nanoldinho)!
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/f-enrique-martinez/)!
+
+<details><summary><h2>Technologies I have worked with</h2></summary>
+  
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,linux,git,heroku,flask,mongodb,selenium,arduino,ableton)](https://skillicons.dev)
+</details>
+
 ![](https://hit.yhype.me/github/profile?user_id=73340871)
