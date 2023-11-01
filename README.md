@@ -1,4 +1,5 @@
 # Hello!👋 
+
 I am Enrique Martínez. I am a Business Management and Administration graduate, tech lover, and self-taught developer. 
 
 I have helped world-renowned brands and startups in competitive SEO sectors for three years as Digital Marketing Consultant. During that period, I fell in love with Python and discovered the power of data, so I decided to redirect my career path toward programming.
@@ -13,7 +14,11 @@ After two years of self-taught learning, I decided to jump into the ["pool"](htt
 
 🥷 I am also  ~~an amateur musician~~ a professional [noise maker](https://soundcloud.com/nanoldinho)!
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/f-enrique-martinez/)!
+## Contact
+  <a href="https://www.linkedin.com/in/f-enrique-martinez/">
+    <img src="https://img.shields.io/badge/-Enrique_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f-enrique-martinez/"><a/>
+   <a href="mailto:enrique@emartinez.net">
+    <img src="https://img.shields.io/badge/-enrique@emartinez.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enrique@emartinez.net"><a/>
 
 <details><summary><h2>Technologies I have worked with</h2></summary>
   
